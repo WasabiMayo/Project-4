@@ -1,0 +1,108 @@
+## Research plan
+
+#### 1. Title
+HIIT Workout timer field study
+
+#### 2. Authors and stakeholders
+Claire Lee, GA ADI Student
+hyewon.claire.lee@gmail.com
+
+#### 3. Date
+3/17/16
+
+#### 4. Background
+I came up with this idea based on my personal experience. I've been doing the high intensity interval workout(HIIT) daily, and it needs a specific timer. The HIIT timer apps in PlayStore now were not enough to satisfy my needs. I wanted them to have more features but be simple at the same time. 
+
+#### 5. Goals
+* I want to know if users want the timer to be highly customizable. 
+* I want to know what they want most from workout app or what motivates them. 
+* What do users want from a timer app?  
+
+#### 6. Research questions
+* Do the users want to have a highly customizable app? 
+* What feature do the users value most? 
+* Do they want something that will make them get back to workout?
+* What do users want from a timer app? 
+
+#### 7. Methodology 
+The research will be done outside by 1:1 interview session. It will be around 5-10 minutes. 
+
+#### 8. Participants 
+* People who do workout regularly. 
+* People who are interestsed in workout. 
+* People in the gym. 
+* 20-30's 
+
+#### 9. Schedule 
+* Everything will be done on a same day. 3/17/16. 
+
+#### 10. Script
+##### Customization 
+ What was your ideal workout experience? 
+ What stopped me most from workout? 
+ Do you enjoy to try different kinds of workouts? 
+ 
+##### Motivation
+* Do you workout with trainer? 
+* What do you think the purpose of trainers?
+* What motivates you most? 
+
+##### Timer feature
+* What do you hate about the timer app you're currently using? 
+* What's the ideal timer app for you? Why? 
+
+
+## User research summary persona & Research highlight
+
+##### Research Highlight
+* Users wanted a simple workout timer 
+* Their main complains were : 1. Poor UI, 2. Too complicated or too simple(lack of features) 3. No progress chart
+* They wanted a timer app to have these features : 1. Accuracy, 2. Pleasant sound, 3. Reminder 
+
+##### Persona 
+###### Will Ketchum
+* Age : 31
+* Occupation : Banker
+* Status : Taken
+* Goals : 
+    1. Growing a strong reputation
+    2. Being successful
+    3. Being fit and living organic
+* Frustrations : 
+    1. He hates his job
+    2. Sometimes he is demotivated about workout and also feels guilty 
+    3. Hates to do workout research 
+    
+
+
+## User stories
+##### Timer
+* As a user, I can set the time for my workout
+* As a user, I can set the time for every specific phases (i.e. warm up, cool down, sprint, recovery, intense session..)
+* As a user, I can see my total workout time
+* As a user, I can easily write down what to do during some specific intervals (i.e. superset)
+
+##### Music
+* As a user, I can set my workout music based on my total workout time
+* As a user, I can skip or shuffle the music 
+* As a user, I can hear the music fade out when the workout is done
+
+##### Metrics
+* As a user, I can see my progress by chart. The chart shows the total workout time. 
+* As a user, I can check days that I did workout
+
+##### Settings 
+* As a user, I can save the workout time preset
+* As a user, I can share the workout preset and progress chart or calender via facebook. 
+
+
+
+## Problem statement
+* Poor UI
+* Lack of progress chart feature
+* User always should use different app to listen to music during the workout
+ 
+ 
+
+## List of features
+![alt-text](https://github.com/WasabiMayo/Project-4/blob/master/Features.png?raw=true)
